@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Projet_Annuel"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/g/__RACINE/_Documents/ESGI/Cours Seb 2020-2021/Langage C/Projet Annuel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/g/__RACINE/_Documents/ESGI/Cours Seb 2020-2021/Langage C/Projet Annuel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/g/__RACINE/_Documents/ESGI/Cours Seb 2020-2021/Langage C/Projet Annuel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Projet_Annuel">
+				<Option output="/mnt/g/__RACINE/_Documents/ESGI/Cours Seb 2020-2021/Langage C/Projet Annuel/cmake-build-debug/Projet_Annuel" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projet_Annuel"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Projet_Annuel/fast">
+				<Option output="/mnt/g/__RACINE/_Documents/ESGI/Cours Seb 2020-2021/Langage C/Projet Annuel/cmake-build-debug/Projet_Annuel" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projet_Annuel/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/g/__RACINE/_Documents/ESGI/Cours\ Seb\ 2020-2021/Langage\ C/Projet\ Annuel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/g/__RACINE/_Documents/ESGI/Cours Seb 2020-2021/Langage C/Projet Annuel/main.c">
+			<Option target="Projet_Annuel"/>
+		</Unit>
+		<Unit filename="/mnt/g/__RACINE/_Documents/ESGI/Cours Seb 2020-2021/Langage C/Projet Annuel/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

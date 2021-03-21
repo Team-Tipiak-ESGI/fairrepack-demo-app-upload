@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/g/__RACINE/_Documents/ESGI/Cours Seb 2020-2021/Langage C/Projet Annuel"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/g/__RACINE/_Documents/ESGI/Cours Seb 2020-2021/Langage C/Projet Annuel/cmake-build-debug
